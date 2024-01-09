@@ -11,8 +11,8 @@
 
 ### Screenshot
 
-[Desktop screenshot](/images/desktop%20screenshot.png)
-[Active State screenshot](/images/active%20desktop%20screenshot.png)
+![Desktop screenshot](/images/desktop%20screenshot.png)
+![Active State screenshot](/images/active%20desktop%20screenshot.png)
 
 
 
